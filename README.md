@@ -13,7 +13,6 @@ A geek and IT specialist with over 10 years of experience in the industry, with 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PISZCZKE&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PISZCZKE&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - [piszczke.pl](https://piszczke.pl)
 - [Instagram](https://www.instagram.com/piszczke/) 
